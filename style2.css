@@ -49,20 +49,7 @@ h2 {
     font-size: 30px;
 }
 
-h4 {
-  color: blanchedalmond;
-  font-family: "Arial";
-  font-size: 40px;
-  margin-top: 30px;
-  margin-bottom: -50px;
-  margin-left: 50px;
-  margin-right: 80px;
-  height: 115px;
-
-}
-
-
-.ul1 {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -102,18 +89,6 @@ h3 {
     border-bottom: blanchedalmond dashed 2px;
 }
 
-.h31 {
-  color: blanchedalmond;
-    font-family: "Brush Script MT";
-    font-size: 80px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-    margin-left: 30px;
-    height: 115px;
-
-}
-
-
 p { 
     margin-top: 5px;
     margin-left: 30px;
@@ -122,34 +97,6 @@ p {
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-table {
-  font-family: arial, sans-serif;
-  border-collapse:collapse;
-  border-style:hidden;
-  width: 10%;
-  margin-left: 130px;
-  margin-right: 130px;
-
-}
-
-.włosy {
-  color: blanchedalmond;
-  font-size: 23px;
-}
-
-td, th {
-  border: 1px solid blanchedalmond;
-  text-align: left;
-  padding: 8px;
-}
-
-.super {
-  text-align: center;
-}
-
-
-
 
 /* .logo2 {
     align-items: center;
@@ -162,7 +109,6 @@ td, th {
     margin: 10px 10px;
     transition: 0.5s;
 }
-
 .logo2:hover {
     align-items: center;
     margin-left: auto;
@@ -174,7 +120,6 @@ td, th {
     margin: 10px 10px;
     transition: 0.5s;
 }
-
 .zdjęcia{
     margin: 10px 10px;
     display: flex;
@@ -271,4 +216,3 @@ td, th {
   .demo:hover {
     opacity: 1;
   }
-

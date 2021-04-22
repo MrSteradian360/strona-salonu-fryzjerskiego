@@ -5,14 +5,14 @@
   <link rel="stylesheet" href="style2.css">
   </link>
   <meta charset="UTF-8" />
-  <title>&#9986 Happy Cut - Salon fryzjerski</title>
+  <title>&#9986 Perfect Cut - Salon fryzjerski</title>
   <link rel="icon" href=" ">
   <script src="skrypt2.js"></script>
 
 </head>
 
 <body>
-  <h1 id="start"> &#9986 Happy Cut &#9986</h1>
+  <h1 id="start"> &#9986 Perfect Cut &#9986</h1>
   <h2>- SALON FRYZJERSKI -</h2>
   <header>
     <ul class="ul1">
@@ -36,7 +36,7 @@
       W ciągu następnych 10 lat stał się jednym z najsłynniejszych wirtuozerów nożyc i zdobył nagrodę "Platynowe Nożyce" wręczaną najlepszemu
       fryzjerowi w kraju. Po zdobyciu tej nagrody otworzył pierwsze salony poza Paryżem. Aż do śmierci oddawał się swojej pasji, pozostając
       w bardzo wysokiej formie, docenianej i sowicie opłacanej przez klientów. Salony, które wiernie oddawały jego styl, były otwierane w całej Europie
-      i istenieją po dziś dzień pod nazwą "Happy Cut".<br>
+      i istenieją po dziś dzień pod nazwą "Perfect Cut".<br>
       <br>
       &emsp;Mając na względzie tak odpowiedzialne zadanie, podtrzymania wysokiego poziomu narzuconego przez Heinricha Missela von Kattana'a,
       staramy się świadczyć od wielu lat jak najlepsze i jak najbardziej wyrafinowane oraz prestiżowe zabiegi, pozwalające włosom nie tylko
@@ -324,7 +324,7 @@
         <h5>&#9743 123 456 789</h5>
       </div>
       <div class="column">
-        <h6>&#9993 happycut@gmail.com</h6>
+        <h6>&#9993 perfectcut@gmail.com</h6>
       </div>
     </div>
     </p>

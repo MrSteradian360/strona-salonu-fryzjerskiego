@@ -1,8 +1,6 @@
 # Strona salonu fryzjerskiego "Perfect Cut"
 
-Autorzy:
--Mateusz Duma
--Eryk Galas
+Autorzy: Mateusz Duma, Eryk Galas.
 
 Grupa 1
 

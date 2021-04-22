@@ -5,8 +5,8 @@
   <link rel="stylesheet" href="style2.css">
   </link>
   <meta charset="UTF-8" />
-  <title>&#9986 Perfect Cut - Salon fryzjerski</title>
-  <link rel="icon" href=" ">
+  <title>Perfect Cut - Salon fryzjerski</title>
+  <link rel="icon" href="icon.jpg">
   <script src="skrypt2.js"></script>
 
 </head>
